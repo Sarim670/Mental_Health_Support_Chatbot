@@ -32,9 +32,11 @@ An AI-powered chatbot designed to provide initial mental health support by analy
    cd mental-health-chatbot
 
 2. **Install Dependencies**
+   
    pip install -r requirements.txt
 
-3. **Run the application**
+4. **Run the application**
+   
    streamlit run app.py
 
 **📌 Use Cases**
