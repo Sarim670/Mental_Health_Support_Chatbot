@@ -53,9 +53,7 @@ Educational or organizational well-being tools
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
-**📄 License**
 
-This project is licensed under the MIT License.
 
 **🙏 Disclaimer**
 
